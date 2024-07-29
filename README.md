@@ -1,0 +1,3 @@
+some "challenge" although it seems more likely a company attempting to solicit free work from applicants through oddly specific requirements. I didn't mention it in the comments but this was my main concern and why I didn't actually imrpove it as the comments suggest could be, but if you're reading this it's likely you can come up with faster solutions anyway, or implement the suggested improvements.
+
+Whatever the case is, I've yet to receive any explanation for this exercise after more than two months, so I'm putting it up. 
