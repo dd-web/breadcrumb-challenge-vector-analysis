@@ -1,7 +1,8 @@
 
 This is some "challenge" I was asked to complete for some job application I did a few months ago. This completes the "challenge" part at a minimum. Companies that solicit free work through applicants do exist, afterall.
 
-To be clear - this solution is intentionally slower than it could be. I've left some comments explaining how this could be _signifigantly_ sped up if for some reason that will help you.
+
+To be clear - this solution is intentionally slower than it could be. I've left some comments explaining how this could be _signifigantly_ sped up if for some reason that will help you. Although if you're reading this it's very likely you can already come up with a better solution.
 
 Whatever the case is I've yet to receive any explanation for this exercise after more than three months so I'm putting it up. Hope it helps someone.
 
