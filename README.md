@@ -1,4 +1,11 @@
-some "challenge" although it seems more likely a company attempting to solicit free work from applicants through oddly specific requirements. I didn't mention it in the comments but this was my main concern and why I didn't actually improve it as the comments suggest could be, but if you're reading this it's likely you can come up with faster solutions anyway or implement the suggested improvements.
 
-Whatever the case is I've yet to receive any explanation for this exercise after more than three months so I'm putting it up.
+This is some "challenge" I was asked to complete for some job application I did a few months ago. This completes the "challenge" part at a minimum. Companies that solicit free work through applicants do exist, afterall.
 
+To be clear - this solution is intentionally slower than it could be. I've left some comments explaining how this could be _signifigantly_ sped up if for some reason that will help you.
+
+Whatever the case is I've yet to receive any explanation for this exercise after more than three months so I'm putting it up. Hope it helps someone.
+
+
+# usage
+
+just run `make run` to build and run or `make build` to build to the /bin directory.

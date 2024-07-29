@@ -7,15 +7,12 @@ import (
 	"os"
 )
 
-//
-// NOTE
+// @NOTE
 // The program can be improved signifigantly.
 //
-// I could think of a few ways to really speed this up but requires more time
-// and since this was a challenge I wanted to get it submitted as soon as I could.
-//
-// For one the points could be ordered by their N value and large portions of them
-// could be occluded if their values would be too large or something.
+// For one, points can be ordered by their N value. This allows
+// occlusion of all subroutines that come after them, eliminating
+// massive amounts of unnecessary computation.
 
 type InputPt struct {
 	X, Y, Z        float64
